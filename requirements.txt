@@ -1,0 +1,33 @@
+###### Requirements without Version Specifiers ######
+hubspot-api-client
+jupyter
+pandas
+python-dateutil
+chargebee
+plotly
+hubspot-api-client
+beautifulsoup4
+nltk
+torch
+hydra-core
+omegaconf
+bitarray
+sentencepiece
+matplotlib
+tqdm
+dropbox-sign
+pydantic
+mypy
+scipy
+pytz
+dotmap
+openpyxl
+#
+###### Requirements with Version Specifiers ######
+#
+aws-cdk-lib==2.66.1
+constructs>=10.0.0,<11.0.0
+aws-cdk.aws-lambda-python-alpha==2.66.1a0
+pyyaml>=6.0
+ssm-cache>=2.10
+
